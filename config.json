@@ -2,12 +2,9 @@
     "data": 
     [
         {
-            "username": "kk01661",
-            "password": "KK01661"
-        },
-        {
-            "username": "kk01661",
-            "password": "KK01661"
+            "username": "ewi/HEkQN0M6YcXnBh+imS0FY8A/jMSq1kblGIEhcIDYm9yaxQergLK5s3/6srHxyFsCkufGFI8TgpVThrAGFw==",
+            "password": "CQx78G7AnFKNfmI3z7FYwbjSLUTMMbFw+xmM5jPJ9rw5bm5d+F9LsDm2ak8vpoAnVRMm+5lPhF+GjtzoK/amaw==",
+            "keyPath": "./keys/spock"
         }
     ]
 }
