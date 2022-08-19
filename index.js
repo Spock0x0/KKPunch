@@ -29,7 +29,7 @@ async function main(type) {
             const loginButton = await page.$('input[type="image"]');
             await loginButton.click();
             await sleep(2000)
-            await page.goto("https://hrm.kkday.net/ehrportal//DEPT/Personal_CardData_Default.asp")            
+            await page.goto("https://hrm.kkday.net/ehrportal//DEPT/Personal_CardData_Default.asp")
             if (type == punchType.OnDuty) {
                 await page.click('input[name=radiobutton][value="0"]')
             } else {
